@@ -1,0 +1,28 @@
+{
+  "name": "mlbgames",
+  "version": "0.0.0",
+  "description": "Retrieve MLB games for a given day",
+  "main": "lib/mlb.js",
+  "scripts": {
+    "test": "node_modules/.bin/lab -v -l -m 9999 -t 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaw187/mlbgames.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaw187/mlbgames/issues"
+  },
+  "homepage": "https://github.com/jaw187/mlbgames#readme",
+  "dependencies": {
+    "hoek": "3.x.x",
+    "insync": "2.x.x",
+    "wreck": "7.x.x"
+  },
+  "devDependencies": {
+    "code": "2.x.x",
+    "lab": "8.x.x"
+  }
+}

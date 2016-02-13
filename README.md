@@ -1,2 +1,2 @@
 # mlbgames
-Retrieve MLB games for a given dat
+Retrieve MLB games for a given day
