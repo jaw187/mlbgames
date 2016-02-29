@@ -1,6 +1,6 @@
 {
   "name": "mlbgames",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Retrieve MLB games for a given day",
   "main": "lib/mlb.js",
   "scripts": {
