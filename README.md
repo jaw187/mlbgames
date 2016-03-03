@@ -13,8 +13,8 @@ const options = {
   path: 'year_2011/month_07/day_23/'
 };
 
-const mlb = new Mlb(options);
-mlb.get((err, games) => {
+const mlbgames = new Mlbgames(options);
+mlbgames.get((err, games) => {
 
   //... do something
 });
